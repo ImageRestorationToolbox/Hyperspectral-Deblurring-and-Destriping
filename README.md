@@ -1,5 +1,5 @@
 # ImageRestorationToolbox-Hyperspectral-Deblurring-and-Destriping
-This toolbox provides the codes to reproduce the results below. Please download the toolboxes for destriping and debluring [here](https://owuchangyuo.github.io/publications/GRSM)
+This toolbox provides the codes to reproduce the results below. Please download the toolboxes for destriping and debluring [here](https://owuchangyuo.github.io/publications/GRSM).
 
 
 Visual destriping results of competing state-of-the-art methods for different stripe categories and stripe levels. The corresponding (PSNR, SSIM) values are listed below the images.
